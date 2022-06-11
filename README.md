@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gregg R. Whiting, II
-- 👀 I’m interested in becoming the greatest front-end web developer or leastcreate timer games.
+- 👀 I’m interested in becoming the greatest front-end web developer or at least create timer games.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on understanding everything more and more and creating projects that will stand the test of time.
 - 📫 How to reach me www.linkedin.com/in/gregg-whiting
